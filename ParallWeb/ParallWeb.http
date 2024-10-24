@@ -1,0 +1,6 @@
+@ParallWeb_HostAddress = http://localhost:5243
+
+GET {{ParallWeb_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
